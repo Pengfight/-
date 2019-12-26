@@ -11,5 +11,13 @@
 ### 2
 (1)a*(0.5,0,0,0.5)+(1-a)*(0,0.5,0.5,0)<br>
 (2)不存在，因为是有限的周期的Markov链<br>
-### 2013
-
+## 2013
+### 1
+(1)那不就是多于一个基本常返闭集
+(2)不一定存在，因为周期性会影响极限分布的存在性
+(3)1-P(x ^ y > 3)=1- e^(-27)
+(4)
+(5)与2017年的(7)一样,只是需要注意是大于号，所以1-P(M(t)>=7)
+(6)不太会。。
+(7)不会。。
+(8)<a href="https://www.codecogs.com/eqnedit.php?latex=G_n(x)&space;=&space;\sqrt&space;n&space;(\hat&space;F(x)&space;-&space;F(x))" target="_blank"><img src="https://latex.codecogs.com/gif.latex?G_n(x)&space;=&space;\sqrt&space;n&space;(\hat&space;F(x)&space;-&space;F(x))" title="G_n(x) = \sqrt n (\hat F(x) - F(x))" /></a>
