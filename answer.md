@@ -21,3 +21,17 @@
 (6)不太会。。<br>
 (7)不会。。<br>
 (8)<a href="https://www.codecogs.com/eqnedit.php?latex=G_n(x)&space;=&space;\sqrt&space;n&space;(\hat&space;F(x)&space;-&space;F(x))" target="_blank"><img src="https://latex.codecogs.com/gif.latex?G_n(x)&space;=&space;\sqrt&space;n&space;(\hat&space;F(x)&space;-&space;F(x))" title="G_n(x) = \sqrt n (\hat F(x) - F(x))" /></a> G(x)的极限分布是以分布函数F(X)为参变量的布朗桥<br>
+## 2011-2012
+(1)不一定存在，因为是有限的周期的Markov链 <br>
+(2)注意是小于号，所以是1-e^(-24)<br>
+(3)存在啊，有限状态的马尔科夫链平稳分布一定存在。<br>
+(4)<img src="https://latex.codecogs.com/gif.latex?\frac{2}{\pi&space;}\arcsin\sqrt\frac{1}{2}" title="\frac{2}{\pi }\arcsin\sqrt\frac{1}{2}" /> <br>
+(5)-2+(t-t_1)/(t_1)  B(3t_1)感觉不会求 <br>
+(6)<br>
+(7)两个布朗运行的差不就服从正态分布吗？？<br>
+(8)求P(M(t)>9)即可<br>
+
+
+
+
+
