@@ -20,7 +20,7 @@
 (5)与2017年的(7)一样,只是需要注意是大于号，所以1-P(M(t)>=7)<br>
 (6)不太会。。<br>
 (7)不会。。<br>
-(8)<a href="https://www.codecogs.com/eqnedit.php?latex=G_n(x)&space;=&space;\sqrt&space;n&space;(\hat&space;F(x)&space;-&space;F(x))" target="_blank"><img src="https://latex.codecogs.com/gif.latex?G_n(x)&space;=&space;\sqrt&space;n&space;(\hat&space;F(x)&space;-&space;F(x))" title="G_n(x) = \sqrt n (\hat F(x) - F(x))" /></a> G(x)的极限分布是以分布函数F(X)为参变量的布朗桥<br>
+(8)<a href="https://www.codecogs.com/eqnedit.php?latex=G_n(x)&space;=&space;\sqrt&space;n&space;(\hat&space;F(x)&space;-&space;F(x))" target="_blank"></a> G(x)的极限分布是以分布函数F(X)为参变量的布朗桥<br>
 ## 2011-2012
 (1)不一定存在，因为是有限的周期的Markov链 <br>
 (2)注意是小于号，所以是1-e^(-24)<br>
